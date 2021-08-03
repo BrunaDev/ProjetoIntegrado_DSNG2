@@ -5,3 +5,4 @@ Reunião do dia 03/08
 Criamos um novo projeto no unity;
 Criamos um novo arquivo com os nomes dos integrantes e suas respectivas funções;
 Criamos um novo repositório no git hub;
+Adicionamos os documentos do prof. Taero.
