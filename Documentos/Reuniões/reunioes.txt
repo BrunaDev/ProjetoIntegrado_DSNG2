@@ -6,3 +6,12 @@ Reuniões:
 	Criamos um novo arquivo com os nomes dos integrantes e suas respectivas funções;
 	Criamos um novo repositório no git hub;
 	Adicionamos os documentos do prof. Taero.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Reunião do dia 04/08
+
+Somente o Juan de Carvalho Faustino esteve ausente, todos os integrantes restantes compareceram; 
+
+Pesquisa de sprites para os cenários e personagens;
+Pesquisa de como fazer a câmera seguir o personagem;
