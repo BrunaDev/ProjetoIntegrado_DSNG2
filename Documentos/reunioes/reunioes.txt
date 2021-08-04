@@ -16,5 +16,5 @@ Reunião do dia 04/08
 Somente o Juan de Carvalho Faustino esteve ausente, todos os integrantes restantes compareceram; 
 
 Pesquisa de sprites para os cenários e personagens;
-A câmera agora segue o personagem;
+Pesquisa de como fazer a câmera seguir o personagem;
 
