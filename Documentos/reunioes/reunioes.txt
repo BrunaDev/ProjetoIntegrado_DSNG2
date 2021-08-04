@@ -1,0 +1,20 @@
+Reuniões:
+
+Reunião do dia 03/08
+
+Todos os integrantes presentes;
+
+Criamos um novo projeto no unity;
+Criamos um novo arquivo com os nomes dos integrantes e suas respectivas funções;
+Criamos um novo repositório no git hub;
+Colocamos os documentos do jogo no git hub.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Reunião do dia 04/08
+
+Somente o Juan de Carvalho Faustino esteve ausente, todos os integrantes restantes compareceram; 
+
+Pesquisa de sprites para os cenários e personagens;
+A câmera agora segue o personagem;
+
