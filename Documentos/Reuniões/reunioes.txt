@@ -16,3 +16,17 @@ Reuniões:
 	Pesquisa de sprites para os cenários e personagens;
 	Pesquisa de como fazer a câmera seguir o personagem;
 	Início do desenvolvimento, aplicando o personagem na tela.
+
+
+- Reunião do dia 09/08
+
+	Somente o Juan de Carvalho Faustino esteve ausente, todos os integrantes restantes compareceram;
+	
+	Hoje separamos os afazeres da seguinte maneira:
+	Ana Luiza e Camila: atualmente trabalhando no mapa;
+	Camila: trabalhar na música de fundo;
+	Ana Clara: trabalhar no cenário, fazer as transições das fases com fantasmas para o boss;
+	Bruna: trabalhar no personagem, movimentações, colisões, animações;
+	Gabriel: trabalhar nos npcs(fantasmas), movimentações, interações/colisões, animação;
+	Kayam: trabalhar na Cef, movimentações, interações/colisões, animação;
+	Juan: trabalhar no boss 1, movimentação, interação/colisão, animação;
