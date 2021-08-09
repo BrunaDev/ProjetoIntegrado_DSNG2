@@ -1,0 +1,15 @@
+Funções de cada integrante do grupo
+
+Camila-Responsavel pelo roteiro e universo do jogo
+
+Ana Clara-Responsavel pela continuidade e documentação do projeto
+
+Bruna-Responsavel pela programação
+
+Expedito-Responsavel pela programação
+
+Ana luisa-Responsavel pela descriçao da equipe 
+
+Juan-Responsavel pela trilha sonora e gravação
+
+Gabriel-Responsavel pela computação grafica e pela organização do respositorio
