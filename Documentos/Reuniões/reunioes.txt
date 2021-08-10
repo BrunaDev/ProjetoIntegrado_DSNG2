@@ -30,3 +30,10 @@ Reuniões:
 	Gabriel: trabalhar nos npcs(fantasmas), movimentações, interações/colisões, animação;
 	Kayam: trabalhar na Cef, movimentações, interações/colisões, animação;
 	Juan: trabalhar no boss 1, movimentação, interação/colisão, animação;
+
+- Reunião do dia 10/08
+
+	Todos os integrantes estavam presentes;
+	
+	Pesquisamos e escolhemos como vão ser os sprites dos npcs e Boss;
+	E continuação do documento do Taero;
