@@ -5,7 +5,7 @@ Reuniões:
 	Criamos um novo projeto no unity;
 	Criamos um novo arquivo com os nomes dos integrantes e suas respectivas funções;
 	Criamos um novo repositório no git hub;
-	Adicionamos os documentos do prof. Taero.
+	Adicionamos os documentos do prof. Taero;
 
 
 - Reunião do dia 04/08
@@ -15,7 +15,7 @@ Reuniões:
 	Organização do Readme;
 	Pesquisa de sprites para os cenários e personagens;
 	Pesquisa de como fazer a câmera seguir o personagem;
-	Início do desenvolvimento, aplicando o personagem na tela.
+	Início do desenvolvimento, aplicando o personagem na tela;
 
 
 - Reunião do dia 09/08
@@ -37,3 +37,9 @@ Reuniões:
 	
 	Pesquisamos e escolhemos como vão ser os sprites dos npcs e Boss;
 	E continuação do documento do Taero;
+
+- Reunião do dia 11/08
+
+	Todos os integrantes estavam presentes;
+	
+	Os integrantes continuaram trabalhando em suas respectivas funções;
