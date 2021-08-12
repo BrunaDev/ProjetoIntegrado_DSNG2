@@ -43,3 +43,10 @@ Reuniões:
 	Todos os integrantes estavam presentes;
 	
 	Os integrantes continuaram trabalhando em suas respectivas funções;
+
+- Reunião do dia 12/08
+
+	Todos os integrantes estavam presentes;
+	
+	O mapa foi finalizado;
+	Os integrantes continuaram desenvolvendo no Unity;
