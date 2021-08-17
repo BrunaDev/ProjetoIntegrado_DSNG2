@@ -39,3 +39,4 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
  2. Entre na pasta - citada acima- e extrai or arquivos do zip;
  3. Abra com o Unity Hub e execute o jogo no "play";
  4. Divirta-se!
+* Futuramente, haverá outra maneira mais fácil de se jogar sem usar o Unity Hub *
