@@ -34,9 +34,12 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
  ## Instalação
  1. Clone o repositório em uma pasta da sua máquina, usando:
  
-        git clone https://github.com/DSNG2/GAME_DSNG2_2021.git
+        git clone https://github.com/BrunaDev/ProjetoIntegrado_DSNG2.git
+        
+    Ou, clique no arquivo "MemoriasFantasmas(last).zip" e clique em "view raw". Ele fará o download somante da pasta citada;
                
- 2. Entre na pasta - citada acima- e extrai or arquivos do zip;
- 3. Abra com o Unity Hub e execute o jogo no "play";
+ 2. Entre na pasta - citada acima- e extraia os arquivos da pasta "MemoriasFantasmas(last).zip";
+ 3. Dentro desta pasta, abra o arquivo executável "MemoriasFantasmasUnity.exe";
  4. Divirta-se!
-* Obs.: Futuramente, haverá outra maneira mais fácil de se jogar sem usar o Unity Hub 
+ 
+* Obs.: Ainda a pendências na gameplay do jogo.
