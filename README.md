@@ -23,5 +23,19 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
 
  Ruas desertas e escuras de uma cidade; mudanças dos detalhes de cada fase; em cada uma ele irá lutar com inimigos, resolver puzzles e/ou charadas, e libertará uma memória (À medida que o jogo for passando as fases ficarão mais difíceis).
  
+ ## Controles
+ Para o personagem principal:
+  - Space: correr;
+  - Left alt: atirar;
+  - Setas padrão ou "A", "W", "D" e "S": anda nas quatro (4) direções;
+  - C: ao chegar perto da Cef, aperte "C" e veja o que ela tem a dizer;
+  - E: ao chegar perto do boss(Lohan), aperte "E" e veja o que ele tem a dizer.
+            
  ## Instalação
- - Ainda pendente.
+ 1. Clone o repositório em uma pasta da sua máquina, usando:
+ 
+        git clone https://github.com/DSNG2/GAME_DSNG2_2021.git
+               
+ 2. Entre na pasta - citada acima- e extrai or arquivos do zip;
+ 3. Abra com o Unity Hub e execute o jogo no "play";
+ 4. Divirta-se!
