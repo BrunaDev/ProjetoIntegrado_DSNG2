@@ -36,10 +36,10 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
  
         git clone https://github.com/BrunaDev/ProjetoIntegrado_DSNG2.git
         
-    Ou, clique no arquivo "MemoriasFantasmas(last).zip" e clique em "view raw". Ele fará o download somante da pasta citada;
+    Ou, clique no arquivo "MemoriasFantasmas(last).zip" e clique em "view raw". Ele fará o download somente da pasta citada;
                
  2. Entre na pasta - citada acima- e extraia os arquivos da pasta "MemoriasFantasmas(last).zip";
  3. Dentro desta pasta, abra o arquivo executável "MemoriasFantasmasUnity.exe";
  4. Divirta-se!
  
-* Obs.: Ainda a pendências na gameplay do jogo.
+* Obs.: Ainda há pendências na gameplay do jogo.
