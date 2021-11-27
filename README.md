@@ -25,21 +25,11 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
  
  ## Controles
  Para o personagem principal:
-  - Space: correr;
+  - Space: pular;
   - Left alt: atirar;
   - Setas padrão ou "A", "W", "D" e "S": anda nas quatro (4) direções;
-  - C: ao chegar perto da Cef, aperte "C" e veja o que ela tem a dizer;
-  - E: ao chegar perto do boss(Lohan), aperte "E" e veja o que ele tem a dizer.
             
  ## Instalação
- 1. Clone o repositório em uma pasta da sua máquina, usando:
- 
-        git clone https://github.com/BrunaDev/ProjetoIntegrado_DSNG2.git
-        
-    Ou, clique no arquivo "MemoriasFantasmas(last).zip" e clique em "view raw". Ele fará o download somente da pasta citada;
-               
- 2. Entre na pasta - citada acima- e extraia os arquivos da pasta "MemoriasFantasmas(last).zip";
- 3. Dentro desta pasta, abra o arquivo executável "MemoriasFantasmasUnity.exe";
- 4. Divirta-se!
+ - Em processo
  
 * Obs.: Ainda há pendências na gameplay do jogo.
