@@ -1,5 +1,5 @@
 # ProjetoIntegrado_DSNG2
-Jogo em desenvolvimento para o curso de desenvolvimento de sistemas (DS) da Escola Técnica de Eletrônica Francisco Moreira da Costa (ETEFMC).
+Jogo em desenvolvimento para o curso de desenvolvimento de sistemas (DS) da Escola Técnica de Eletrônica Francisco Moreira da Costa (ETEFMC), no ano de 2021.
 
 ## Sobre o jogo
 
@@ -28,8 +28,18 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
   - Space: pular;
   - Left alt: atirar;
   - Setas padrão ou "A", "W", "D" e "S": anda nas quatro (4) direções;
+  - Esc (escape): pausa o jogo.
             
  ## Instalação
- - Em processo
+1. Clone o repositório em uma pasta da sua máquina, usando:
+ 
+        git clone https://github.com/BrunaDev/ProjetoIntegrado_DSNG2.git
+        
+    Ou, clique no arquivo "MemoriasFantasmas.zip" e clique em "view raw". Ele fará o download somente da pasta citada;
+               
+ 2. Entre na pasta - citada acima- e extraia os arquivos da pasta "MemoriasFantasmas.zip";
+ 3. Dentro desta pasta, abra o arquivo executável "MemoriasFantasmasUnity.exe";
+ 4. Divirta-se!
  
 * Obs.: Ainda há pendências na gameplay do jogo.
+
